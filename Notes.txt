@@ -1,0 +1,4 @@
+PyPi and Pip
+
+# These are like npm for node and maven for java libraries
+# PyPi and Pip are extremely useful package installed which is not officially available as part of default python runtime
